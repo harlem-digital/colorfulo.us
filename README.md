@@ -64,3 +64,26 @@ Export a color list.
 ###Clear
 
 Should be able to remove that list of colors that have been stored in local storage.
+
+##Enhancements
+
+###Add 500+ Colors
+
+Add in the ability to search for even more colors that are generic. This would be a seperate feature.
+
+####Resources
+
+* http://cloford.com/resources/colours/500col.htm
+
+###Add Causes
+
+Add the ability to search for Causes or see if colors are associated to causes. There have been some attempts to begin compiling a list of this information. It all started with some work from [Tobias Wright](https://github.com/tobiaswright). We'll need to clean this up, and check to make sure these values are legit. I wonder if there are any legal implications to getting the color 'wrong'. Thinking about branding, etc.
+
+####Resources
+
+* https://github.com/tobiaswright/awareness-color
+* https://github.com/whoiskenjackson/color-dictionary
+
+###Mobile / Web App
+
+Pure geekery. What if we could either save to home screen and have this run offline? Or create a separate app entirely and have this be downloaded from an app store. Desktop, Mobile, etc. Just brainstorming.
